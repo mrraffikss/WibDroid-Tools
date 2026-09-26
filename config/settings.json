@@ -1,0 +1,6 @@
+{
+  "server": {"host": "127.0.0.1", "port": 8765},
+  "timeout": 30,
+  "language": "ru",
+  "security": {"heuristic_scanner": true}
+}
